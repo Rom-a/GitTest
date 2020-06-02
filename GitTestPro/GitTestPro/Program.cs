@@ -6,9 +6,9 @@ namespace GitTestPro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Version 10.0");
+            Console.WriteLine("Version 10.b");
             TestMethodA();
-            Console.WriteLine("Test");
+            Console.WriteLine("Test merge");
         }
 
         static void TestMethodA()
