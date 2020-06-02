@@ -12,6 +12,7 @@ namespace GitTestPro
 
         static void TestMethodA()
         {
+            Console.WriteLine("=====================================");
             Console.WriteLine("Для каждой версии будем менять номер!");
             Console.WriteLine("=====================================");
         }
