@@ -8,6 +8,8 @@ namespace GitTestPro
         {
             Console.WriteLine("Version A.2");
             TestMethodA();
+            Console.WriteLine("Version A.3");
+            //TestMethodA();
         }
 
         static void TestMethodA()
