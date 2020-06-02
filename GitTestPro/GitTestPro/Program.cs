@@ -6,7 +6,7 @@ namespace GitTestPro
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Version B.2");
+            Console.WriteLine("Version B.3");
             TestMethodA();
         }
 
